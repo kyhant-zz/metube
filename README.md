@@ -1,6 +1,6 @@
 # MeTube
 
-YouTube clone built with React/Redux
+YouTube clone to practice using React
 
 ###Getting Started###
 
